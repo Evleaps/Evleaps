@@ -7,7 +7,7 @@ My activities:
   - Contributer to [Dropbox AffectedModuleDetektor](https://github.com/dropbox/AffectedModuleDetector)
   - Author to tech magazine - [Habr](https://habr.com/en/users/Evleaps/posts/), and I wrote about JNI and Detekt
   - Author to the [Medium](https://medium.com/@Evleaps)
-  - Speaker at the Mobuis conference twice, in [2021](https://www.youtube.com/watch?v=V3KOElGS7PY) and [2022](https://www.youtube.com/watch?v=L04cpMbNQ10)
+  - Speaker at the Mobuis conference twice, in [2021](https://www.youtube.com/watch?v=V3KOElGS7PY) and [2022](https://www.youtube.com/watch?v=L04cpMbNQ10) and [2023](https://www.youtube.com/watch?v=OsXPMGt3rT8&list=PLb1A91j1236rvGIOEmTLiK0YoCalaBYRx&index=5)
   - Speaker at the [SberConf](https://www.youtube.com/watch?v=7YaEoe_ib_g)
 
 🔭 Have been living in London since 14 October 2022. 
